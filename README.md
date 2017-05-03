@@ -1,4 +1,4 @@
-#Please save and execute plot1.R, plot2.R, plot3.R, plot4.R.
+#Please save and execute plot1.R, plot2.R, plot3.R, plot4.R. Ensure the raw data file "household_power_consumption.txt" is saved in the same location.
 #This will generate the plot1.png, plot2.png, plot3.png, plot4.png files.
 
 ##Original instructions follow.
