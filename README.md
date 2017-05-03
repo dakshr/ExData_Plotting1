@@ -1,3 +1,8 @@
+#Please save and execute plot1.R, plot2.R, plot3.R, plot4.R.
+#This will generate the plot1.png, plot2.png, plot3.png, plot4.png files.
+
+##Original instructions follow.
+
 ## Introduction
 
 This assignment uses data from
